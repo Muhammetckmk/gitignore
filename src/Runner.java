@@ -25,5 +25,8 @@ public class Runner {
 
         //localde değişiklik
 
+        //remote repoda değişiklik
+
+
     }
 }
