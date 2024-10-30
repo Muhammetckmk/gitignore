@@ -18,15 +18,16 @@ public class Runner {
         System.out.println("techpro 3");
 
 
-        //techpro
-        System.out.println("...................");
+        //techpro branchinde değişiklik yaptım
+        //********************************************************
 
 
 
-        //localde değişiklik
 
-        //dev2 ninyaptığı  değişiklik
 
+
+        //techpro branchinde değişiklik yaptım
+        //********************************************************
 
     }
 }
